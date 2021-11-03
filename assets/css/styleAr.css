@@ -446,7 +446,9 @@ a:hover {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+
 #header {
+  color: #fff;
   transition: all 0.5s;
   z-index: 997;
   padding: 20px 0;
@@ -714,7 +716,7 @@ a:hover {
   position: absolute;
 }
 .hero .overlay-itro {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: #4961dc;
   position: absolute;
   top: 0;
   left: 0px;

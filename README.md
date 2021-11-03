@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://anuraghazra.github.io/">
     <img alt="Gatsby" src="./src/static/logo_noalpha.svg" width="100" />
-    <h2 align="center">Anurag Hazra</h2>
+    <h2 align="center">Ibrahim Alzoriqi </h2>
   </a>
 </p> 
 <p align="center">Creative FrontEnd Web Developer</p>
@@ -10,12 +10,11 @@
 ![GitHub](https://img.shields.io/github/license/anuraghazra/anuraghazra.github.io)
 ![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
 
-
-![Anurag Hazra Site Preview](./src/static/screenshot.png)
+![Ibrahim Alzoriqi  Site Preview](./src/static/screenshot.png)
 
 Strained eyes? There's DarkMode too :p
 
-*NOTE: If you are using this site as a template for your own portfolio site, I would be very glad if you add a link to the original site with my name in footer*
+_NOTE: If you are using this site as a template for your own portfolio site, I would be very glad if you add a link to the original site with my name in footer_
 
 ## :rocket: Quick start
 
@@ -40,6 +39,7 @@ cd anuraghazra.github.io
 ```
 
 install all the dependencies
+
 ```bash
 npm install
 ```
@@ -47,11 +47,12 @@ npm install
 ### Step 3: Start Development Server
 
 Then start the development Server
+
 ```
 npm run develop
 ```
-After running the development server the site should be running on https://localhost:8000
 
+After running the development server the site should be running on https://localhost:8000
 
 ## :open_file_folder: What's inside?
 
@@ -85,7 +86,6 @@ A quick look at the folder structure of this project.
         ├───styles
         └───templates
 
-
 ## Tools Used
 
 1. Gatsby.js (of course)
@@ -96,13 +96,14 @@ A quick look at the folder structure of this project.
 
 ## :v: Contributing
 
-*NOTE: if you want to change the [blog content](./content) or fix any typo you can do that from github's ui without cloning the repo locally*
+_NOTE: if you want to change the [blog content](./content) or fix any typo you can do that from github's ui without cloning the repo locally_
 
 After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
 
 > You can also run the tests locally to see if everything works fine with
 
 ### Running tests
+
 ```bash
 npm run test
 npm run test:e2e
@@ -116,6 +117,6 @@ git commit -m "commit message"
 git push YOUR_REPO_URL develop
 ```
 
-------
+---
 
 Made with :heart: and Gatsbyjs
